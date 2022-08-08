@@ -9,3 +9,6 @@ Projeto feito no módulo do curso Node + Typescript
 
 ### Para executar o projeto
 `npm run server`
+
+### Para visualizar o projeto após o deploy
+`https://young-beyond-10765.herokuapp.com/`
